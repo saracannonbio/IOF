@@ -122,4 +122,10 @@ AFAFAF
 "ACB", "Acropora - branching", "C"
 "ACR", "Acropora", "C"
 "ACA", "Acanthastrea", "C"
-
+NOTES,NOTES,NOTES
+"BG", "Cyanobacteria-covered coral", "NA"
+"T", "Turf-covered coral", "NA"
+"C", "CCA-covered coral", "NA"
+"R", "Recently dead coral", "NA"
+"D", "Dead coral", "NA"
+"BC", "Bleached coral", "NA"
